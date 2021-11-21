@@ -1,0 +1,12 @@
+@import "components/button";
+@import "~bootstrap/scss/bootstrap";
+@import "components/banner";
+
+.test {
+  color: #003cff;
+  background-color: blue;
+  background-image: url("../icon.png");
+  img {
+    max-width: 100%;
+  }
+}
